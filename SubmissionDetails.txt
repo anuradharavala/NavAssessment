@@ -1,0 +1,5 @@
+1. "Create Tables Script".sql" to create the order related tables.
+2. "Trigger Script.sql" trigger to insert into history table while insert into a table.
+3. "Table Type Script.sql" creating table type to pass multiple product related information to stored procedure.
+4. "OrderInsert Stored Procedure.sql" stored procedure to insert product related information into tables.
+5. "OrderItemsReport.sql" to create order related report.
